@@ -1327,3 +1327,16 @@ a.floating-whatsapp:hover {
         height: 400px;
     }
 }
+
+.contact-tiktok {
+    display: block;
+    margin-top: 18px;
+    color: inherit;
+    text-decoration: none;
+    font-size: 14px;
+    transition: opacity 0.2s ease;
+}
+
+.contact-tiktok:hover {
+    opacity: 0.6;
+}
